@@ -4,7 +4,7 @@
 
 
 ### About  
-Working on embedded systems and IoT platforms using ESP32 and real-time dashboards. I enjoy building small, reliable systems that connect hardware, data, and the web.
+I build full-stack and IoT systems that connect embedded hardware with clean, data-driven web applications
 
 ### Activity  
 <p align="center">
