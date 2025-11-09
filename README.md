@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Sanjana+👋;IoT+Developer+&+Full-Stack+Learner;ESP32+%7C+Next.js+%7C+Supabase&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Sanjana;IoT+Developer;Full+Stack+Learner&center=true&width=450&height=45&pause=800&color=3F3F3F" />
 </p>
+
 
 ### About  
 Working on embedded systems and IoT platforms using ESP32 and real-time dashboards. I enjoy building small, reliable systems that connect hardware, data, and the web.
