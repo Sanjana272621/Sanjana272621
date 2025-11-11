@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Sanjana;IoT+Developer;Building+Full-Stack+Systems&center=true&width=450&height=45&pause=800&color=3F3F3F" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Sanjana;IoT+Developer;Building+Full-Stack+Systems&center=true&width=450&height=45&pause=800&color=22E7FF" />
 </p>
 
 
