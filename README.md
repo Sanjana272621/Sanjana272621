@@ -12,3 +12,8 @@ I build full-stack and IoT systems that connect embedded hardware with clean, da
   <img src="https://streak-stats.demolab.com?user=Sanjana272621&theme=transparent&hide_border=true" height="140" />
 </p>
 
+### Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana272621&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
+</p>
+
