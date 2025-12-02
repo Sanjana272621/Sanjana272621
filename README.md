@@ -6,10 +6,15 @@
 ### About  
 I build full-stack and IoT systems that connect embedded hardware with clean, data-driven web applications
 
-### Activity  
+### Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana272621&show_icons=false&hide_title=true&hide_border=true&theme=transparent" height="140" />
-  <img src="https://streak-stats.demolab.com?user=Sanjana272621&theme=transparent&hide_border=true" height="140" />
+  <!-- GitHub contribution graph -->
+  <img src="https://ghchart.rshah.org/Sanjana272621" alt="GitHub chart" height="150"/>
+</p>
+
+<p align="center">
+  <!-- GitHub streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana272621&theme=dark&hide_border=true" alt="GitHub streak" height="150"/>
 </p>
 
 ### Languages
